@@ -1,0 +1,1 @@
+// Placeholder React component for UI
